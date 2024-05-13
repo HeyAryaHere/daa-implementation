@@ -4,8 +4,8 @@ I'd be glad to create a README file for your DAA implementation based on the IEE
 
 This project provides a Python implementation of the algorithm presented in the IEEE research paper:
 
-* **Title:** [Insert paper title here] (you can find this on the IEEE Xplore website)
-* **Authors:** [Insert author list here]
+* **Title:** Comprehensive Study of Algorithms for the Analysis of Algorithms (you can find this on the IEEE Xplore website)
+* **Authors:** Arya Bhatt
 * **IEEE Xplore Link:** [https://ieeexplore.ieee.org/document/10425323](https://ieeexplore.ieee.org/document/10425323)
 
 **Implementation Details**
